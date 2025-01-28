@@ -1,0 +1,21 @@
+Effectuer les requêtes suivantes :
+Concernant les retours clients : 
+Compter le nombre de retours clients sur la livraison - Déterminer les jours où 
+l’expérience client est la meilleure expérience en magasin et les classer par ordre
+décroissant - Déterminer sur quel mois on obtient le plus de retour sur le service 
+après-vente - Déterminer le pourcentage de recommandations client
+Concernant les produits : 
+ Affiche la liste des notes sur les réseaux sociaux et la catégorie TV 
+- Déterminer la note moyenne pour chaque catégorie de produit et les classer de la 
+meilleure à la moins bonne – identifier la typologie de produit qui apporte le meilleur 
+service après-vente - Déterminer la note moyenne sur l'ensemble des boissons -
+Lister les typologies de produit qui ont amélioré leur moyenne entre le 1er et le 2e 
+trimestre 2021
+Concernant les magasins : - Lister les 5 magasins ayant les meilleures notes 
+moyennes - Lister les magasins ayant plus de 12 retours sur le drive - Classer les 
+départements par note moyenne - Lister les magasins ayant une note inférieure à
+la moyenne
+II – Calculs d’indicateurs - Calcul du Net Promoter Score (NPS) global = Pourcentage 
+de promoteurs – pourcentage de détracteurs = ((Nbr notes entre 9 et 10 - Nbr notes 
+entre 0 et 6) / Nbr notes total) x 100
+- Calcul du NPS pour chaque sources de retours clientS
