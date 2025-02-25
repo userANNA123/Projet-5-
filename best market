@@ -1,0 +1,10 @@
+Pour assurer la cohérence et la qualité des données avec lesquelles nous avons travaillé, nous avons mis
+en place les mesures suivantes :
+● 1. Vérification de l'intégrité des données :Nous avons examiné les relations entre les différentes tables 
+de la base de données pour nous assurer que les clés étrangères étaient correctement définies et que 
+chaque référence avait une correspondance dans la table parente.
+● 2. Contrôle des doublons
+● 3. Gestion des valeurs NULL
+● 4. Validation des résultats
+● 5. Contrôle des bornes et des plages. ( Par exemple: est ce que le NPS est bien compris entre -
+100 et 100
